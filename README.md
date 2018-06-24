@@ -1,2 +1,2 @@
 # learn-python
-my first steps in .py
+My first steps in .py
